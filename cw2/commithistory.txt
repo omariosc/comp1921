@@ -1,0 +1,1185 @@
+commit cbbc5fbe8e056af70c618d590329a9507cc53bc2
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 18:46:28 2021 +0100
+
+    Updated knowledge base
+
+commit 6a84a03938afa2d8c3296c8c4c59d5c1c3998e8e
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 18:11:32 2021 +0100
+
+    Moved log to build/
+
+commit 0368566b64de07c23d050481e6530b8aebc17b63
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 17:53:01 2021 +0100
+
+    Updated commit history
+
+commit 02bd482571f0b3dedc45184c5c222180659f07b3
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 17:51:49 2021 +0100
+
+    Updated README.md
+
+commit b8f9e7628bb79efa55e6df2479b9ddf4e443f94a
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 17:47:29 2021 +0100
+
+    Updated commit history
+
+commit 33c270397dbdf2eeb84786d5c51ef38ff1c86a1e
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 17:46:28 2021 +0100
+
+    Updated critical reflection
+
+commit 5afc7024868154fcbf502d82c5054ef1647b3c96
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 17:36:03 2021 +0100
+
+    Updated build type to release
+
+commit 9179e9195816371f4e4ef617ff5bd8c919962921
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 17:35:46 2021 +0100
+
+    Updated call graph
+
+commit 7b88dfd448a81270c748649191215490fb3786c4
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 17:15:10 2021 +0100
+
+    Updated egypt path
+
+commit 2615c9e822ad342b74e84b33feb24b434d1f61a8
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 17:09:07 2021 +0100
+
+    Updated log
+
+commit e1ae323d32c39ded7aff523b64fcb11ac2c26ab3
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 16:58:07 2021 +0100
+
+    Updated egypt path
+
+commit adb1d7774342c37eaf256a1513905370d996af46
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 16:47:18 2021 +0100
+
+    Main now checks for quit
+    BotResponse no longer checks for quit
+    Edited formatting
+
+commit 185721f661c98b6b6d55174e5aabe296da330901
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 16:46:57 2021 +0100
+
+    BotResponse no longer checks for quit
+    Made the quit check more efficient
+    Edited formatting
+
+commit 54b9e2719d1a848e8928b37016ebaa89663c5f0a
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 16:46:18 2021 +0100
+
+    BotResponse no longer checks for quit
+
+commit a16d2fd6395038bbeb43753e3cf1be6b3e6e7831
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 16:46:01 2021 +0100
+
+    Added more tests
+    Edited commenting
+
+commit 0f0e2af2ab21fa74d04e2f4938f921fdee7bda3d
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 16:44:48 2021 +0100
+
+    Edited some of the knowledge base
+
+commit c00b859e8fea660b6366d32ab04ea61fc2ca33b0
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 02:25:43 2021 +0100
+
+    Completed critical reflection
+
+commit 20cbd780a0b99ec38fdc9a6f3173aa985167d136
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 01:55:03 2021 +0100
+
+    Updated commit history
+
+commit 55fdcf18823e4fd4534eeef6dca71f359a3fa5e5
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 01:53:32 2021 +0100
+
+    Ignores egypt
+
+commit 4efba3cfea9e744723b7db292b6f2e67ef515c96
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 01:52:34 2021 +0100
+
+    Finalized ReadMe
+    Added information to test suite
+
+commit e1a45a6babfa9f31809f5e2be5fb89e0bcbdcecd
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 01:49:07 2021 +0100
+
+    Reduces input and response length
+
+commit ccb79af3a4ab7b64f887f7b5e90209bdc95a90d2
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 01:48:57 2021 +0100
+
+    Excepts call graph
+
+commit f5a74700d35f85f403d398410e6b1e1dfd0cb8ec
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 01:48:48 2021 +0100
+
+    Edited path
+
+commit 6ec2c4bad754142a44fad8e61a4f7151a4cc3dc3
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 01:48:40 2021 +0100
+
+    Generated call graph
+
+commit 929dd1974c3069539d8f28aba3a26d9bf593f930
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 00:33:14 2021 +0100
+
+    Formatting
+
+commit 8ded99f1d180c7f255d839e33a6bbebf990cd77a
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 00:10:48 2021 +0100
+
+    Created tests for preprocessing input
+    Created tests for null input check
+    Created tests for user quit check
+    Created tests for input repetition check
+    Checks null, valid, invalid and boundary values
+
+commit f9d8cd4f4bae62cad3ec9ca1dfb39e4620ff9ced
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 00:10:02 2021 +0100
+
+    Renamed function InputRepetitionCheck
+
+commit a5ed9b447a4d3aeb879624c88ef439a9f8648a13
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 00:09:39 2021 +0100
+
+    Checks if log exists before printing to log
+
+commit 132f1fad7005bfec56a8508bed9b9df9319b93c1
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 00:09:28 2021 +0100
+
+    Checks if log exists before printing to log
+
+commit 6084b56fae19c6a5ec16ee41957f342cae672019
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 00:09:10 2021 +0100
+
+    Updated minimium similarity check value
+
+commit 6181e30fdcb3c4205ee70859159a2ffab0810b27
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Thu May 6 00:08:58 2021 +0100
+
+    Updated log
+
+commit c049b5a1a5f7025322d64604a32bb6c66898289b
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 19:22:45 2021 +0100
+
+    Edited source files
+
+commit 598d79eb6b3dc2d66d02114f9b3a5e0857ce8361
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 19:22:16 2021 +0100
+
+    Added test prototypes
+
+commit 4f6f085bd683c93b5586053e0c2b15e0d5fa0b5b
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 18:57:58 2021 +0100
+
+    Added to-do list
+    Added viewing note
+    Added executing commands
+
+commit 5fb15e14efdde4e9e0aac253773b4e97c4861ce4
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 18:40:42 2021 +0100
+
+    Initial commit
+
+commit 134bbd1e6433332121e6d3616c9b6991df8a913e
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 18:40:34 2021 +0100
+
+    Added more instructions
+    Formatting
+
+commit 5ea1bd5daaf117604680b5eca642a7af5ef27004
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 18:37:07 2021 +0100
+
+    Initial commit
+
+commit 6c02231465517f386cf43dafc78752f2ecc2887e
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 18:36:59 2021 +0100
+
+    Commented main
+
+commit e4a0dbde2d5fb56fe1292bac2dcde0eadaee07ce
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 18:34:26 2021 +0100
+
+    Updated log
+
+commit 7ea0fe44467d9a712a01dd505a9c418fb55c9327
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 18:34:19 2021 +0100
+
+    Added unit test executable
+
+commit 307c181396ef24116b998b5a004546fccedc6723
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 18:26:37 2021 +0100
+
+    Removed new line from log after log creation message
+
+commit e6f67a7895b209f8f8124eea15572b5c592b6605
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 18:23:42 2021 +0100
+
+    Initial commit
+
+commit 0261cbbc5e7fe5177550c2dda66d947bc5632e58
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 17:37:59 2021 +0100
+
+    Formatting
+
+commit 4d4f61f04e06f2f538927d2e168a04d760967653
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 01:58:18 2021 +0100
+
+    Edited comments
+
+commit 8ca8eb358143d36beed6c8ce751503a502a0dd0b
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 01:57:19 2021 +0100
+
+    Formatting
+
+commit 9fa4a1bf7c3f4f12d0b4e1571369f501d9f3f90b
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 01:49:50 2021 +0100
+
+    Increased knowledge base
+
+commit 8d5a40b271996616da944de70d00bde0c7930ac7
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 01:47:05 2021 +0100
+
+    Removed debugging outputs
+
+commit 2bd30ca1b6ec6f358dd2f6b4dcaaabe9e092ca1e
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 01:45:34 2021 +0100
+
+    Added more commits
+
+commit 53170900e0aa2d49d3d8bebea022deb941dd082c
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 01:44:30 2021 +0100
+
+    Fixed error in tokenization of input
+
+commit a961462fa3249db957f710ac61758279a9ad10a9
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 01:27:00 2021 +0100
+
+    Formatting
+
+commit 124926f91cab65d1abd82fa24f3364a1b4513a6e
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 01:25:17 2021 +0100
+
+    Formatting
+
+commit a9cfdf270d9bf5fbf00ee0738654f50601bde4a4
+Merge: bda9c78 8a2a741
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 01:24:34 2021 +0100
+
+    Formatting
+
+commit bda9c78f4de4c58da63d2cd652d307a7319bae15
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 01:23:54 2021 +0100
+
+    Formatting
+
+commit 8a2a741e7b31037bdf67e21f0490d31e1f976099
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 01:22:52 2021 +0100
+
+    Formatting
+
+commit 884bd57bff53a6376f89d2c6b9bf217e602a5683
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 01:21:58 2021 +0100
+
+    Completed to point of code completion
+
+commit afe9aadaf90fc46ece6052f54e8534710ef35049
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 01:19:46 2021 +0100
+
+    Added video demonstration heading
+
+commit 0d637dffd0506f17adc8099eb827b2bc2098c814
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 01:09:26 2021 +0100
+
+    Initial commit
+
+commit 90dcb54d467a55aa2c8d0d2215427f39e06f8052
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 01:01:00 2021 +0100
+
+    Initial commit
+
+commit c7982183084e922abc2ffa527563adb645ead145
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 00:42:34 2021 +0100
+
+    Tokenizes input and checks for quitting first
+
+commit 643546599bc63053c37ec8dbc311e8bd1e81fdf5
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 00:34:19 2021 +0100
+
+    Edited comments
+
+commit 4e8bfd84aed3b5ddc0faf77504dd29ad00edf228
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 00:28:49 2021 +0100
+
+    Edited commit history file
+
+commit 689af0bdacacf4328e49abddc4060701990e1125
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 00:28:24 2021 +0100
+
+    Edited comments
+    Formatted files to look nicer
+
+commit ce72097336725cfe49027bd144f5228ee32a34a1
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed May 5 00:18:02 2021 +0100
+
+    Removed debugging outputs
+
+commit 3f915ff65cab5dd1de0054b8ba8c6ae08007110b
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 20:19:43 2021 +0100
+
+    Removed commithistory.pdf
+
+commit b33df0fbe3ac94e179a4e807e3348b42b83669dd
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 20:08:07 2021 +0100
+
+    Implemented substring search for multiple word inputs in knowledge base
+
+commit 7869d0f6a5af17123cf8e7e92e106850cf8b7925
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 20:04:56 2021 +0100
+
+    Increased similarity check
+
+commit 041ab18e8aa6a67e41c70e2fbdf4093922c887c1
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 20:04:46 2021 +0100
+
+    Moved shorter inputs to the bottom of the record
+
+commit 90805655491ba1ecf343fb7d1079de367cc25aa0
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 18:46:22 2021 +0100
+
+    Added reference
+
+commit a96ccfee8c072a92f2821ca06e09dbb0dbbec51f
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 18:46:13 2021 +0100
+
+    Expanded knowledge base
+
+commit 8c80851e796b44a8e15f05b27dc69e51ac871b7f
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 18:13:59 2021 +0100
+
+    Iterates through inputs
+
+commit 7d356aa67a6ce0621da30e269fcefb92c86aab13
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 18:13:33 2021 +0100
+
+    Added functionality for responses to have multiple inputs
+    Added some sample input and response records
+
+commit 232e61b9593a85cd98d4a49d61dbb67f5a0e4b5f
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 18:13:13 2021 +0100
+
+    Added functionality for responses to have multiple inputs
+
+commit fd076dbd0dc906d2c1707c4dad3e081b9c06928b
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 17:52:27 2021 +0100
+
+    Added comments
+
+commit 1442bbb0b9ba24fe79942b90aa86ddc7fdb9034e
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 17:51:57 2021 +0100
+
+    Edited instructions
+
+commit 43c97716775d0f41b671fec9b5c399abc9ac0857
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 17:49:42 2021 +0100
+
+    Initial commit
+
+commit 640b83c0276d4d9bcc9b0c9f348f36b95b09a77c
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 17:49:37 2021 +0100
+
+    Excepts commithistory.pdf
+
+commit f7e1bc91033297608acaa8f0d0f8abd8b87d1900
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 17:49:21 2021 +0100
+
+    Added more instructions
+
+commit 84418c6c13d7e19614c136c2db88a15c29418a81
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 17:43:21 2021 +0100
+
+    Edited lists
+
+commit 3b837d13b578e7183537eaa7c63d44f634f3d3e4
+Merge: 98a839f a2cf4bf
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 17:42:34 2021 +0100
+
+    Edited lists
+
+commit 98a839f37f239c142df9c52d7ff4b05620f4ea8f
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 17:41:37 2021 +0100
+
+    Edited list
+
+commit a2cf4bf90f5e6a345593977686e49e67fb2da170
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 17:38:59 2021 +0100
+
+    Edited list
+
+commit c81370b0b4a9cd4d038e807aabf1422b3a0fe79c
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 17:37:02 2021 +0100
+
+    EventHandler writes response to log file
+
+commit 06c14d21e2b8f3173d9acf65fa6fb4fe3c8cefec
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 17:36:19 2021 +0100
+
+    Global log file variable
+
+commit 296c8eb7fa59c335201276b6d6a195d1097bc42b
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 17:36:05 2021 +0100
+
+    Implemented file log system
+    Calculates current time
+    Creates file if it does not exist
+    Records time of log creation
+    Records time of each conversation log
+
+commit 6467ea1402811711b8bbb03eb022a5e0b9938387
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 17:31:08 2021 +0100
+
+    UniBot now appends logs so all conversations are stored
+
+commit a1c1c9c1f81bd3d14160544a4ef9990920ac9a67
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 17:30:35 2021 +0100
+
+    Prints to log file now as well as regular output
+    Includes log file as parameters of functions
+    Fixed problem with BotResponse not picking up multiple word inputs
+
+commit d0c6af3f55a3b4aad51f6e03b51ebc85d9589c76
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 17:29:38 2021 +0100
+
+    Increased similarity check value
+    Includes log file as parameters of functions
+
+commit c5a66e3d2ee1af50ac8a7aa01fa996b4df101419
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 17:22:05 2021 +0100
+
+    log.txt created in build
+
+commit 6cfc849fe3b8aae9cca4c44face9109aaac7a422
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 17:00:04 2021 +0100
+
+    Initial commit
+
+commit 94ac14afa0fff71e5820dfbcfa347388fc1eccdc
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 16:59:58 2021 +0100
+
+    Added references
+    Added more instructions
+
+commit 62bfeab589a3a6f0e1c5523489c34c4c18203710
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 03:00:37 2021 +0100
+
+    Added more comments
+
+commit 60baa25b46d176bcee9d476f95fc7c179f72d69d
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 03:00:27 2021 +0100
+
+    Edited MIN_SIMILARITY_CHECK variable
+
+commit 4e3f831556ebd5037d0a67801445382cb365e694
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 02:56:53 2021 +0100
+
+    Defined similarity check value
+
+commit 53af809b4a11f500bff6b4876ffc98729a3c9453
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 02:56:09 2021 +0100
+
+    More advanced input repetition check
+    Calculates similarity value for inputs
+    Created simple function to swap address of arrays
+    Added more comments
+
+commit a7e6bb8f8f150ad6d38078ea128cacece9e45b9f
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 02:42:47 2021 +0100
+
+    Changed max array length to defines lengths
+    Implemented more advanced input repetition check
+
+commit 05e8f117023d195ef52337d729d601c9f6e57eed
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 02:42:04 2021 +0100
+
+    Defines maximum input and response length
+
+commit d1e6403d950ab173d3054cc310dbf17a2af7c841
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 02:41:38 2021 +0100
+
+    Added comments
+    Changed response selection to just 2 responses
+
+commit 86b3eb6991c50c0dda285ab631e54073c1622eec
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 02:40:55 2021 +0100
+
+    Defines maximum inputs and responses
+
+commit 70fceb819e854f8b3b6e3ce6e4502b1c8ea6a026
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 02:40:38 2021 +0100
+
+    Added more instructions
+
+commit 7926a26cecc15a2f68b3101a8fb3d1b07f70b435
+Merge: 0763d50 5346abd
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 01:39:25 2021 +0100
+
+    Merge branch 'master' of https://gitlab.com/comp1921_2021/sc20osc
+
+commit 0763d505248fe6b08c9c7fa1bf65aea59da1b3cc
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 01:39:20 2021 +0100
+
+    BotResponse now checks if user wants to quit
+    BotResponse now tokenizes input
+    Checks word by word in knowledge base
+
+commit 5346abdb9618b5a09480e39de23905a5e295d468
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 01:37:03 2021 +0100
+
+    BotResponse now checks if user wants to quit
+    BotResponse now tokenizes input
+    Checks word by word in knowledge base
+
+commit 6077d09c7a8bb4bb8d54f6479f46eda14f388de0
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 01:36:06 2021 +0100
+
+    BotResponse now checks if user wants to quit
+
+commit 841d454a3a093c8d2cad46439e42af814198803b
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 01:35:58 2021 +0100
+
+    BotResponse now checks if user wants to quit
+
+commit 0306ac119cb03cb7b04b7834a42f1e6563d7b95d
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Tue May 4 00:13:25 2021 +0100
+
+    Added use of EventHandler
+
+commit 72d9437a13b6adf52d69ba4c26968db4b2d86104
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Mon May 3 22:34:11 2021 +0100
+
+    Removed NullInputRejection
+
+commit c6827662746a6d046d62ee1f4cc9fa9facf25b1a
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Mon May 3 22:34:01 2021 +0100
+
+    Removed NullInputRejection
+    Added more comments
+
+commit b66e6013783db5570cd97a59f823c21e05b7ea0f
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Mon May 3 22:33:35 2021 +0100
+
+    Added global event record knowledge bases
+    EventHandler function prototype
+
+commit 6ebefeb52bc45ec74f399a3723fb9cceec678c6b
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Mon May 3 22:33:09 2021 +0100
+
+    Added comments
+    Created EventHandler
+
+commit 4a9ac62142db950e3dd1d53f70843ded35c3faae
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Mon May 3 17:24:43 2021 +0100
+
+    Initialised basic event knowledge bases
+
+commit 789ff742ab6950bba1f50dcca8c1627cd659145d
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Mon May 3 17:24:13 2021 +0100
+
+    Edited purpose of file
+    Defines maximum number of inputs
+    Created new event record structure
+    Declared event knowledge bases
+
+commit 3f1dc061a8d2b81a1ea48b398574b03ca2c14cff
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Mon May 3 17:20:34 2021 +0100
+
+    Added basic instructions on running UniBot
+
+commit 5ae4d65def432293a3a5116b85aabb522072409c
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Mon May 3 00:54:24 2021 +0100
+
+    ResponseChoice takes number of responses
+
+commit 48c0d6d2d57333752de5d406247c474d6f42e710
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Mon May 3 00:54:02 2021 +0100
+
+    Deals with different number of responses
+    Adapted to change in knowledge base
+
+commit 5ce67994400f24582a3ecba820b16335e745d680
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Mon May 3 00:53:19 2021 +0100
+
+    Stores number of responses
+
+commit 4d8667b15a2878b91401cfb83988cdfeef147da1
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Mon May 3 00:52:38 2021 +0100
+
+    Increased knowledge base
+    Added number of responses
+
+commit c09c0f24e361ecdf584019651cd0c063c8a1f79e
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Mon May 3 00:08:12 2021 +0100
+
+    Handles user repetitions better
+
+commit 2408fface17fbe6fd5fdeb7d4d61b3fd99e6e3c3
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Mon May 3 00:07:48 2021 +0100
+
+    Removed event functions
+
+commit 3da2cf4b3ae8ed95110f01368f99acd479e6c8c8
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sun May 2 23:31:54 2021 +0100
+
+    Added basic CMake compilation commands
+
+commit 824a84398bdef31529047df94562ba7246f973d0
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sun May 2 23:03:20 2021 +0100
+
+    Added test suite heading
+    Added CMake compilation heading
+
+commit 95edd3ef452a83c2c84ad6f04abb8003d3506fb9
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sun May 2 22:48:02 2021 +0100
+
+    Added link to GitLab commit history online
+
+commit e97c4c879dda839042bd05f296ab6323d1280f77
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sun May 2 22:46:02 2021 +0100
+
+    Edited formatting
+
+commit 993c6318eba1e1d8317e89f39324538c522331b3
+Merge: 20efb51 566c8e5
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sun May 2 22:44:45 2021 +0100
+
+    Edited GitLab repositry link
+
+commit 20efb517f7e3ccddc0da1c6f4a2258e0791fc9fe
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sun May 2 22:42:28 2021 +0100
+
+    Edited GitLab repositry link
+
+commit 566c8e5816bb8ae425ad96e6441d052b97f44009
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sun May 2 22:39:25 2021 +0100
+
+    Edited GitLab repositry link
+
+commit d29b8577ded9d082214351a43e876dbfe6a4172a
+Merge: a2f6501 df64277
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sun May 2 22:24:35 2021 +0100
+
+    Merge branch 'master' of https://gitlab.com/comp1921_2021/sc20osc
+
+commit a2f6501729f6ce0da95c5a5398c7f2c569939db1
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sun May 2 22:24:17 2021 +0100
+
+    Checks for user repetition
+
+commit e969990303201b83e3e7f9a6eccd866f3d190df2
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sun May 2 22:24:04 2021 +0100
+
+    Added main headings and information
+
+commit dae345f8a248f7a3e9d21de5a1d44ed182eae3ba
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sun May 2 22:23:21 2021 +0100
+
+    Formatted list
+
+commit 065abad4e8ae0130c9fb5ebb95c0c35cf5be0f48
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sun May 2 22:22:57 2021 +0100
+
+    Excepts critical reflection
+
+commit f601ce1ff4dbe1c1a6b69a8089be7c545393fcda
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sun May 2 22:22:43 2021 +0100
+
+    Ignores markdownlint json file
+
+commit d0930f6fe11a92f3964ba4815b5498dc8b0abd1b
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sun May 2 22:22:31 2021 +0100
+
+    Initial commit
+
+commit a9f9cb8fb68e5529d8158b7631467861fe1aad5f
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sun May 2 22:17:57 2021 +0100
+
+    Removes response repetitions
+
+commit df64277ff152610e84f2c5639b918431d282c71a
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sun May 2 17:51:04 2021 +0100
+
+    Removes response repetitions
+
+commit 0b75d46aaa5c5e47a60645b1b6296268b68f37b4
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sun May 2 17:50:46 2021 +0100
+
+    Removes response repetitions
+
+commit a0d45452c32c0a0cf0b98aa7189d27af25de3ce2
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sun May 2 17:50:11 2021 +0100
+
+    Removes response repetitions
+
+commit 41f24972982e60f25d9fae89d88644507d939b18
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sun May 2 17:24:25 2021 +0100
+
+    Added manual compilation code
+
+commit b335d93ceceb5bd51a2c68749a2a317372ae2bf3
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sun May 2 16:58:57 2021 +0100
+
+    Moved logic functions from main
+    Preprocessing removes redundant spaces
+
+commit 97aed48b96dc67458151861efdd1a5cd782127d2
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sun May 2 16:58:19 2021 +0100
+
+    Moved logic functions from main
+
+commit ecc46e69d477d794c98dfd00f5d0b32547570b79
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sun May 2 16:58:05 2021 +0100
+
+    Moved logic functions to stringhandling
+    Creates backup of input and response
+
+commit a4e2e8a3cc49b3d11def1786b9b99a42473d3803
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sun May 2 16:57:59 2021 +0100
+
+    Moved logic functions to stringhandling
+
+commit ec0e8242c72d1323e9cc2f07fde2dbc63e3ab6fa
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sun May 2 01:24:55 2021 +0100
+
+    Moved some string handling functions from main
+
+commit 10354736edc065e3884fb71e178b1fa7ab7c8216
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sun May 2 01:22:43 2021 +0100
+
+    Moved knowledge base back
+
+commit b8b7d2e8cd2b71476d488fe315ceb2761e160c0d
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sun May 2 01:18:23 2021 +0100
+
+    Changed ResponseCheck to BotResponse
+
+commit 4b40f05e45a2c52421b8a4799a432ea2f271095b
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sun May 2 01:18:07 2021 +0100
+
+    Prints response
+    If no response is found prints message
+
+commit ed0deb815f8bcf3f243cdd956afe53dfd3f44ef6
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sat May 1 23:56:41 2021 +0100
+
+    Initialises knowledge base
+
+commit 79257745edfe419f6ad8872facfcc16741ce2848
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sat May 1 23:56:21 2021 +0100
+
+    Removed prototype for populating knowledge base
+
+commit eb18b48b18391f0d4bd7f219135143126cedfad2
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sat May 1 23:56:07 2021 +0100
+
+    Temporarily moved knowledge base to main
+
+commit d6d64dd1a470a0642f9fc5ba847d7d4cfb3fd8d2
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sat May 1 23:38:09 2021 +0100
+
+    Implemented saving previous event
+
+commit 302bc2dfe8e9e12af64688de78d3313542c7c686
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sat May 1 23:30:54 2021 +0100
+
+    Converts all characters to upper case
+
+commit eeaed1c31d0afd5566a8ddb755b500624121ea77
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sat May 1 23:30:39 2021 +0100
+
+    Edited comments
+
+commit e44fc34577f2c54fb8c04dfb29512f3af492e9a8
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sat May 1 23:18:53 2021 +0100
+
+    Implemented function to preprocess input
+
+commit 1878e42a3d49047b533b858fecf4c22f60ba758b
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sat May 1 23:18:29 2021 +0100
+
+    Performs pre processing on input
+
+commit 6e4537efeaaf8d6b062be490264161318d794a15
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sat May 1 23:10:41 2021 +0100
+
+    Includes time.h
+    Prints > for user input
+    Created functions for calculating responses
+    Removes bot understand check
+    Created more initial arrays for inputs and responses
+
+commit 10b75ebfd9c0f176c73b9233d3507182b1071e32
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sat May 1 23:09:54 2021 +0100
+
+    Created functions for calculating responses
+    Removes bot understand check
+
+commit 9c1726917f94dc88ef34b7fba422cc144aea6788
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sat May 1 23:09:24 2021 +0100
+
+    Edited comments
+
+commit 5e6f7e117cf303d511e835b89324dd271dd59894
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sat May 1 23:09:15 2021 +0100
+
+    Edited comments
+
+commit 99def64b96db83840abc861d22dc07991bc4ce28
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sat May 1 23:09:05 2021 +0100
+
+    Defines maximum number of responses per input
+    Creates record structure for knowledge base
+    Creates global variable for knowledge base and size
+    Function prototype for populating knowledege base
+
+commit f93994286345faca455187531c3e6152723ae454
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Sat May 1 23:08:23 2021 +0100
+
+    Added function to populate knowledge base
+    Populates knowledge base
+    Calculates size of knowledge base
+
+commit 8ca2c5aac088dc1db3f62a5cd79e4327673e24ef
+Author: Omar Choudhry <sc20osc@leeds.ac.uk>
+Date:   Tue Apr 27 20:14:32 2021 +0100
+
+    Implemented while loop for conversation
+
+commit 15c7ccfa4bfe85f9e1d09972b6e9ea457354f3c4
+Author: Omar Choudhry <sc20osc@leeds.ac.uk>
+Date:   Tue Apr 27 20:09:12 2021 +0100
+
+    More meaningful variable names
+    Chages function name style
+
+commit e8ca1a845d923dc8a9ad393e1076ce69b9b04837
+Author: Omar Choudhry <sc20osc@leeds.ac.uk>
+Date:   Tue Apr 27 19:50:49 2021 +0100
+
+    Implemented more const modifiers
+    Implemented some initial basic functions
+
+commit 81c934ec0e56ded71c20f7e02ca92acaccaad80d
+Author: Omar Choudhry <sc20osc@leeds.ac.uk>
+Date:   Tue Apr 27 19:50:36 2021 +0100
+
+    Implemented more const modifiers
+
+commit 7a83b9214d4d65928757847b39b1c52fba909852
+Author: Omar Choudhry <sc20osc@leeds.ac.uk>
+Date:   Tue Apr 27 19:24:41 2021 +0100
+
+    Used const modifiers
+
+commit ad82eb9a6e446965fb8ce976c7229149e77e98fe
+Author: Omar Choudhry <sc20osc@leeds.ac.uk>
+Date:   Tue Apr 27 18:49:11 2021 +0100
+
+    Implemented prototype body from header file
+
+commit e8d866e2c7fb5e0f8365b89904f3ceedcf8055d3
+Author: Omar Choudhry <sc20osc@leeds.ac.uk>
+Date:   Tue Apr 27 18:49:05 2021 +0100
+
+    Created initial function prototypes
+
+commit 6015e0ec72fdd43fbad66a9d320d8a5b3b2bc67f
+Author: Omar Choudhry <sc20osc@leeds.ac.uk>
+Date:   Tue Apr 27 17:45:47 2021 +0100
+
+    Adds commented executable for unit tests
+
+commit 7b70f5ee4ac44cfefd023d6646a5a086c29f63f3
+Author: Omar Choudhry <sc20osc@leeds.ac.uk>
+Date:   Tue Apr 27 17:45:15 2021 +0100
+
+    Renamed file
+
+commit 84c3c3195b7cc5d7250e0f7f182ad9323e4e0360
+Author: Omar Choudhry <sc20osc@leeds.ac.uk>
+Date:   Tue Apr 27 17:44:54 2021 +0100
+
+    Ignores unity/ directory
+
+commit ad226e694ab71abc3432db394dac5397c7c7e049
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Mon Mar 22 22:16:40 2021 +0000
+
+    Sets source files
+
+commit 76ffd8d75b45a7eb9f335cbf83cc19e3100dbd16
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed Mar 17 23:00:47 2021 +0000
+
+    Includes other header files
+
+commit 4c81b796dccb05529e1ca18be470a270eaa41e99
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed Mar 17 23:00:39 2021 +0000
+
+    Adjusted formatting
+
+commit 293642124826c367cca4ea99f644c09a1a841bdd
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed Mar 17 23:00:22 2021 +0000
+
+    Renamed to UniBot
+    Links knowledgebase and stringhandling files
+
+commit 85ba27cf21e6639bd1a8ff6b68be4effc9249328
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed Mar 17 22:59:57 2021 +0000
+
+    Initial commit
+
+commit d82a27728bdae97c6faba1489ba01514a0dd3062
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed Mar 17 22:37:19 2021 +0000
+
+    Ignores docs/
+
+commit 06550189b7981d773bde1eb6164343f875264426
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed Mar 17 17:15:45 2021 +0000
+
+    Removed .vs/ files
+
+commit 9113e51c60eb7dc748260fd7a3b0ece04c65a327
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed Mar 10 17:22:52 2021 +0000
+
+    Renames project to ChatBot
+
+commit 90d804dbc4077073a53228f6905fce8b778ba798
+Author: Omar Choudhry <71817542+omariosc@users.noreply.github.com>
+Date:   Wed Mar 10 17:20:49 2021 +0000
+
+    Ignore documents
+
+commit d9856433a3df1f31e08377cc24b75f0da2e12cad
+Author: Omar Choudhry <sc20osc@leeds.ac.uk>
+Date:   Fri Mar 5 20:02:27 2021 +0000
+
+    Ignore .vs/
+
+commit 4661dd3665ecd45354cd32621748053d05bd43bd
+Author: Omar Choudhry <sc20osc@leeds.ac.uk>
+Date:   Fri Mar 5 14:31:45 2021 +0000
+
+    Initial commit
+
+commit bf67b44385fb9291d69a1c9485b0a45e52e024c2
+Author: Omar Choudhry <sc20osc@leeds.ac.uk>
+Date:   Fri Mar 5 14:27:42 2021 +0000
+
+    Initial commit
+
+commit 057f0141bdc8fa690f48d602d5c860803f38ae06
+Author: Omar Choudhry <sc20osc@leeds.ac.uk>
+Date:   Thu Mar 4 16:42:41 2021 +0000
+
+    Initial commit
+
+commit 3784d5e141eee840c5113c4a0e54e465bc7849af
+Author: Omar Choudhry <sc20osc@leeds.ac.uk>
+Date:   Wed Mar 3 21:35:14 2021 +0000
+
+    Initial README.md
+
+commit f4c6caa5e0faa862e57dfb0e919525f5fe0682f7
+Author: Omar Choudhry <sc20osc@leeds.ac.uk>
+Date:   Wed Mar 3 21:35:03 2021 +0000
+
+    Initial file main.c
+
+commit 81b8e91fb73f15a40436df7d14ab4345c433786d
+Author: Omar Choudhry <sc20osc@leeds.ac.uk>
+Date:   Wed Mar 3 21:34:48 2021 +0000
+
+    Initial file main.h
+
+commit b5bb51d7cc7fbb0af9d87f1925cb8de58602c723
+Author: Omar Choudhry <sc20osc@leeds.ac.uk>
+Date:   Wed Mar 3 21:34:32 2021 +0000
+
+    Initial file CMakeLists.txt
+    Project currently named project
+    Contains main.h and main.c
+
+commit 48e739c285dc26e2d759d17e36e0104616d466b8
+Author: Omar Choudhry <sc20osc@leeds.ac.uk>
+Date:   Wed Mar 3 21:34:02 2021 +0000
+
+    Initial file .gitignore
