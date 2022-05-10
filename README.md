@@ -1,3 +1,6 @@
 # comp1921
 
-Contains courseworks 1 and 2 for the COMP1921 Programming Project module.
+Contains courseworks for the COMP1921 Programming Project module.
+
+- Coursework 1: Simple Library Management System in C
+- Coursework 2: Simple Chatbot in C
